@@ -1,0 +1,12 @@
+# Streamlit for web application
+streamlit
+# Google Cloud AI Platform SDK
+google-cloud-aiplatform
+# PDF processing library
+pdfplumber
+# Google Generative AI library
+google-generative-ai
+# Environment variable management
+python-dotenv
+# Image handling
+Pillow
