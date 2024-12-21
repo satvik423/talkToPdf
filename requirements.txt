@@ -5,7 +5,7 @@ google-cloud-aiplatform
 # PDF processing library
 pdfplumber
 # Google Generative AI library
-google-generative-ai
+google-generativeai
 # Environment variable management
 python-dotenv
 # Image handling
